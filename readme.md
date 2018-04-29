@@ -1,4 +1,4 @@
-## A-Line Boutique
+## Meteor Boilerplate
 
 ### Developing Locally
 
